@@ -11,5 +11,7 @@ CNN model is inspired from Tensorflow's CNN image classification tutorial.
 My first CNN project which I did not watch any tutorials on youtube for.
 Moreover, my first CNN model that has a relatively high accuracy than previous projects.
 
+h5 file too big to upload, even with compression
+
 
 
